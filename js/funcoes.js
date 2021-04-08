@@ -35,7 +35,7 @@ function ExibirJogadoresNaTela(jogadores) {
         html += "<td><button>Vitória</button></td>";
         html += "<td><button>Empate</button></td>";
         html += "<td><button>Derrota</button></td>";
-        html += "<?tr>";
+        html += "<tr>";
     }
 }
 
